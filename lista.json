@@ -1,0 +1,12 @@
+[
+  {
+    name: "Pizza",
+    descrition: "Pizza description",
+    price: 50.00
+  },
+    {
+    name: "Hamburguer",
+    descrition: "Hamburguer description",
+    price: 20.00
+  },
+]
