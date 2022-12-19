@@ -2,11 +2,13 @@
   {
     "name": "Pizza",
     "descrition": "Pizza description",
-    "price": 50.00
+    "price": 50.00,
+    "image": "https://s.yimg.com/ny/api/res/1.2/.LRtQeMBWiegqN2T9AdtrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2749d5a0-fec7-11ec-9f7f-e5eef821754a"
   },
     {
     "name": "Hamburguer",
     "descrition": "Hamburguer description",
-    "price": 20.00
+    "price": 20.00,
+    "image": "https://s.yimg.com/ny/api/res/1.2/.LRtQeMBWiegqN2T9AdtrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/2749d5a0-fec7-11ec-9f7f-e5eef821754a"
   }
 ]
